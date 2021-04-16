@@ -1,0 +1,7 @@
+#banner {
+  background-image: url('https://cs293.watzekdi.net/images/kb/banner-background.png');
+  background-repeat: repeat-x;
+}
+body{
+  background-color: #DAD9D4;
+}
